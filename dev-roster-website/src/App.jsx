@@ -21,6 +21,10 @@ function App() {
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
         </ul>
+        <h2>New England Innocence Project</h2>
+        <ul>
+          <li>Test Developer Name: Leann, Brandon, Dhruvii, Eleanor, Henru, Kevin, Lizzie, Mallory, Marten, Nelson, Sara, Siara, Kelly</li>
+        </ul>
       </div>
     </>
   )
