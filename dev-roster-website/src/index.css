@@ -1,3 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.purple {
+  color: SlateBlue; /*bro this is not blue*/
+}
