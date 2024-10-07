@@ -11,7 +11,7 @@ function App() {
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
         </ul>
-        <h2>Bread & Roses</h2>
+        <div style={{display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '5px'}}><h2 style={{color: 'orange'}}>Bread</h2>&<h2 style={{color: 'pink'}}>Roses</h2></div>
         <ul>
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
