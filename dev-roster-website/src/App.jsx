@@ -21,7 +21,7 @@ function App() {
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
         </ul>
-        <h2>LCS Tutoring</h2>
+        <h1><i>LCS</i> Tutoring!!!!!</h1>
         <ul>
           <li class="purple">Anne Wu</li>
         </ul>
